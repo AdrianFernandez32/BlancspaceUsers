@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/AdrianFernandez32/BlancspaceUsers.git)
+   git clone https://github.com/AdrianFernandez32/BlancspaceUsers.git
    cd BlancspaceUsers
    ```
 
